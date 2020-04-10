@@ -5,8 +5,8 @@
 Open Turn Windows features on or off and select Hyper-V and the Windows Hypervisor Platform checkboxes. For these features to take effect, you will need to restart your machine.
 From search windows
 - apps & features
-- Related Setting : Program Features
-![](https://i.imgur.com/Ee5zUA9.png)
+- Related Setting : Programs & Features
+![](https://i.imgur.com/oRRYKJS.png)
 
 
 
