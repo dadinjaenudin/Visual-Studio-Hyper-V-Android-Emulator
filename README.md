@@ -9,7 +9,7 @@ From search windows
 
 ![](https://i.imgur.com/oRRYKJS.png)
 
-### ## :memo: Open Microsoft visual studio 2019 
+## :memo: Open Microsoft visual studio 2019 
 Open Microsoft Visual studio 2019 and clik continue without coding on the right.
 
 1. Setup Android SKD Manager
@@ -30,10 +30,10 @@ Start Device Manager
 ![](https://i.imgur.com/gkKeOns.png)
 
 
-### ## :memo: The Emulator
+## :memo: The Emulator
 ![](https://i.imgur.com/UpKvU8e.png)
 
-### ## :memo: Run react-native with emulator
+## :memo: Run react-native with emulator
 ```
 npm run android
 ```
@@ -41,3 +41,5 @@ npm run android
 
 
 
+## :memo: Credits
+@Aden Creating mobile Yotodo
