@@ -6,9 +6,8 @@ Open Turn Windows features on or off and select Hyper-V and the Windows Hypervis
 From search windows
 - apps & features
 - Related Setting : Programs & Features
+
 ![](https://i.imgur.com/oRRYKJS.png)
-
-
 
 ### ## :memo: Open Microsoft visual studio 2019 
 Open Microsoft Visual studio 2019 and clik continue without coding on the right.
